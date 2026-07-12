@@ -155,12 +155,12 @@ Professional business websites with modern UI, SEO optimization, and responsive 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZubairCodes78&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&text_color=FFFFFF&rank_icon=github" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=ZubairCodes78&theme=transparent&hide_border=true&stroke=3B82F6&ring=06B6D4&fire=3B82F6&currStreakLabel=06B6D4" />
+  <img height="170" src="./assets/stats-card.svg" alt="GitHub Stats"/>
+  <img height="170" src="./assets/streak-stats.svg" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZubairCodes78&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=FFFFFF" />
+  <img height="210" src="./assets/top-langs.svg" alt="Top Languages"/>
 </p>
 
 ## 📈 Contribution Graph
