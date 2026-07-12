@@ -155,12 +155,12 @@ Professional business websites with modern UI, SEO optimization, and responsive 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="./assets/stats-card.svg" alt="GitHub Stats"/>
-  <img height="170" src="./assets/streak-stats.svg" alt="GitHub Streak"/>
+  <img height="205" src="./assets/stats-card.svg" alt="GitHub Stats"/>
+  <img height="150" src="./assets/streak-stats.svg" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="210" src="./assets/top-langs.svg" alt="Top Languages"/>
+  <img height="220" src="./assets/top-langs.svg" alt="Top Languages"/>
 </p>
 
 ## 📈 Contribution Graph
