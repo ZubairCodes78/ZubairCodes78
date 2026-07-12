@@ -166,13 +166,13 @@ Professional business websites with modern UI, SEO optimization, and responsive 
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZubairCodes78&theme=github-compact&bg_color=0B0F1A&color=3B82F6&line=06B6D4&point=FFFFFF&area=true&hide_border=true"/>
+<img src="./assets/contribution-graph.svg" alt="Contribution Graph"/>
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ZubairCodes78&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8"/>
+<img src="./assets/trophies.svg" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
