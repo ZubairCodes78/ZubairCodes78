@@ -1,0 +1,16 @@
+<svg width="400" height="150" viewBox="0 0 400 150" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" width="399" height="149" rx="10" fill="#0B0F1A" stroke="#1F2937"/>
+<text x="28" y="30" font-family="JetBrains Mono, monospace" font-size="14" font-weight="600" fill="#E5E7EB">Contribution Streak</text>
+<line x1="28" y1="44" x2="372" y2="44" stroke="#1F2937" stroke-width="1"/>
+<text x="85" y="83" font-family="JetBrains Mono, monospace" font-size="22" font-weight="700" fill="#E5E7EB" text-anchor="middle">1,240</text>
+<text x="85" y="105" font-family="JetBrains Mono, monospace" font-size="10.5" fill="#9CA3AF" text-anchor="middle">Total</text>
+<text x="85" y="120" font-family="JetBrains Mono, monospace" font-size="9" fill="#5B6472" text-anchor="middle">contributions</text>
+<line x1="143" y1="58" x2="143" y2="130" stroke="#1F2937" stroke-width="1"/>
+<text x="200" y="83" font-family="JetBrains Mono, monospace" font-size="22" font-weight="700" fill="#3B82F6" text-anchor="middle">18 days</text>
+<text x="200" y="105" font-family="JetBrains Mono, monospace" font-size="10.5" fill="#9CA3AF" text-anchor="middle">Current streak</text>
+<text x="200" y="120" font-family="JetBrains Mono, monospace" font-size="9" fill="#5B6472" text-anchor="middle">keep it going</text>
+<line x1="257" y1="58" x2="257" y2="130" stroke="#1F2937" stroke-width="1"/>
+<text x="315" y="83" font-family="JetBrains Mono, monospace" font-size="22" font-weight="700" fill="#E5E7EB" text-anchor="middle">63 days</text>
+<text x="315" y="105" font-family="JetBrains Mono, monospace" font-size="10.5" fill="#9CA3AF" text-anchor="middle">Longest streak</text>
+<text x="315" y="120" font-family="JetBrains Mono, monospace" font-size="9" fill="#5B6472" text-anchor="middle">personal best</text>
+</svg>

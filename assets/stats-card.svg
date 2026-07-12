@@ -1,0 +1,17 @@
+<svg width="400" height="205" viewBox="0 0 400 205" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" width="399" height="204" rx="10" fill="#0B0F1A" stroke="#1F2937"/>
+<text x="28" y="36" font-family="JetBrains Mono, monospace" font-size="14" font-weight="600" letter-spacing="0.3" fill="#E5E7EB">GitHub Stats</text>
+<rect x="334" y="12" width="38" height="24" rx="6" fill="none" stroke="#3B82F6" stroke-width="1.2"/>
+<text x="353" y="29" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700" fill="#3B82F6" text-anchor="middle">A+</text>
+<line x1="28" y1="50" x2="372" y2="50" stroke="#1F2937" stroke-width="1"/>
+<text x="28" y="80" font-family="JetBrains Mono, monospace" font-size="12.5" fill="#9CA3AF">Stars earned</text>
+<text x="372" y="80" font-family="JetBrains Mono, monospace" font-size="13" font-weight="600" fill="#E5E7EB" text-anchor="end">128</text>
+<text x="28" y="106" font-family="JetBrains Mono, monospace" font-size="12.5" fill="#9CA3AF">Total commits</text>
+<text x="372" y="106" font-family="JetBrains Mono, monospace" font-size="13" font-weight="600" fill="#E5E7EB" text-anchor="end">1,540</text>
+<text x="28" y="132" font-family="JetBrains Mono, monospace" font-size="12.5" fill="#9CA3AF">Pull requests</text>
+<text x="372" y="132" font-family="JetBrains Mono, monospace" font-size="13" font-weight="600" fill="#E5E7EB" text-anchor="end">42</text>
+<text x="28" y="158" font-family="JetBrains Mono, monospace" font-size="12.5" fill="#9CA3AF">Issues</text>
+<text x="372" y="158" font-family="JetBrains Mono, monospace" font-size="13" font-weight="600" fill="#E5E7EB" text-anchor="end">18</text>
+<text x="28" y="184" font-family="JetBrains Mono, monospace" font-size="12.5" fill="#9CA3AF">Contributed to</text>
+<text x="372" y="184" font-family="JetBrains Mono, monospace" font-size="13" font-weight="600" fill="#E5E7EB" text-anchor="end">15 repos</text>
+</svg>

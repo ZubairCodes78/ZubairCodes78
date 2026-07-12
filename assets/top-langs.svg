@@ -1,0 +1,25 @@
+<svg width="400" height="220" viewBox="0 0 400 220" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" width="399" height="219" rx="10" fill="#0B0F1A" stroke="#1F2937"/>
+<text x="28" y="30" font-family="JetBrains Mono, monospace" font-size="14" font-weight="600" fill="#E5E7EB">Most Used Languages</text>
+<line x1="28" y1="44" x2="372" y2="44" stroke="#1F2937" stroke-width="1"/>
+<rect x="28.0" y="62" width="146.2" height="8" rx="0" fill="#3178c6"/>
+<rect x="174.2" y="62" width="97.4" height="8" rx="0" fill="#f1e05a"/>
+<rect x="271.6" y="62" width="54.0" height="8" rx="0" fill="#3572A5"/>
+<rect x="325.6" y="62" width="28.2" height="8" rx="0" fill="#e34c26"/>
+<rect x="353.8" y="62" width="18.2" height="8" rx="0" fill="#563d7c"/>
+<circle cx="32" cy="92" r="4" fill="#3178c6"/>
+<text x="46" y="96" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E7EB">TypeScript</text>
+<text x="372" y="96" font-family="JetBrains Mono, monospace" font-size="12" fill="#9CA3AF" text-anchor="end">42.5%</text>
+<circle cx="32" cy="116" r="4" fill="#f1e05a"/>
+<text x="46" y="120" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E7EB">JavaScript</text>
+<text x="372" y="120" font-family="JetBrains Mono, monospace" font-size="12" fill="#9CA3AF" text-anchor="end">28.3%</text>
+<circle cx="32" cy="140" r="4" fill="#3572A5"/>
+<text x="46" y="144" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E7EB">Python</text>
+<text x="372" y="144" font-family="JetBrains Mono, monospace" font-size="12" fill="#9CA3AF" text-anchor="end">15.7%</text>
+<circle cx="32" cy="164" r="4" fill="#e34c26"/>
+<text x="46" y="168" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E7EB">HTML</text>
+<text x="372" y="168" font-family="JetBrains Mono, monospace" font-size="12" fill="#9CA3AF" text-anchor="end">8.2%</text>
+<circle cx="32" cy="188" r="4" fill="#563d7c"/>
+<text x="46" y="192" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E7EB">CSS</text>
+<text x="372" y="192" font-family="JetBrains Mono, monospace" font-size="12" fill="#9CA3AF" text-anchor="end">5.3%</text>
+</svg>
