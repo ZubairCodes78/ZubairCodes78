@@ -155,24 +155,24 @@ Professional business websites with modern UI, SEO optimization, and responsive 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZubairCodes78&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&text_color=FFFFFF&rank_icon=github" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ZubairCodes78&theme=transparent&hide_border=true&stroke=3B82F6&ring=06B6D4&fire=3B82F6&currStreakLabel=06B6D4" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZubairCodes78&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=06B6D4&text_color=FFFFFF&rank_icon=github" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=ZubairCodes78&theme=transparent&hide_border=true&stroke=3B82F6&ring=06B6D4&fire=3B82F6&currStreakLabel=06B6D4" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZubairCodes78&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=FFFFFF" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZubairCodes78&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=FFFFFF" />
 </p>
 
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZubairCodes78&bg_color=0B0F1A&color=3B82F6&line=06B6D4&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZubairCodes78&theme=github-compact&bg_color=0B0F1A&color=3B82F6&line=06B6D4&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ZubairCodes78&theme=algolia&no-frame=true&no-bg=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ZubairCodes78&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8"/>
 </p>
 
 <p align="center">
